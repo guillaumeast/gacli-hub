@@ -1,0 +1,6 @@
+name: "compillm"
+version: "0.0.1"
+stable: false
+description: "Compile any codebase into LLM-ready resources"
+repo_url: "https://github.com/guillaumeast/gacli_compillm"
+module_url: "https://github.com/guillaumeast/gacli_compillm/archive/refs/heads/main.tar.gz"
